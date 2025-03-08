@@ -1,0 +1,6 @@
+/Users/ls/Playwrightdotnet/PlaywrightNUnitDemo/obj/Debug/net7.0/PlaywrightNUnitDemo.csproj.AssemblyReference.cache
+/Users/ls/Playwrightdotnet/PlaywrightNUnitDemo/obj/Debug/net7.0/PlaywrightNUnitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ls/Playwrightdotnet/PlaywrightNUnitDemo/obj/Debug/net7.0/PlaywrightNUnitDemo.AssemblyInfoInputs.cache
+/Users/ls/Playwrightdotnet/PlaywrightNUnitDemo/obj/Debug/net7.0/PlaywrightNUnitDemo.AssemblyInfo.cs
+/Users/ls/Playwrightdotnet/PlaywrightNUnitDemo/obj/Debug/net7.0/PlaywrightNUnitDemo.csproj.CoreCompileInputs.cache
+/Users/ls/Playwrightdotnet/PlaywrightNUnitDemo/obj/Debug/net7.0/PlaywrightNUnitDemo.sourcelink.json
