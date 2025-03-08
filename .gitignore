@@ -2,3 +2,5 @@ bin/
 obj/
 *.dll
 *.log
+bin/Debug/net8.0/.playwright/node/darwin-x64/node
+bin/Debug/
